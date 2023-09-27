@@ -10,7 +10,7 @@
 
 print("This program calculates and displays travel expenses")
 budget=int(input("Enter Budget:"))
-destination=input("Enter your travel destinatioin:")
+destination=input("Enter your travel destination:")
 gasExpense=int(input("How much do you think you will spend on gas?"))
 accomodationExpense=int(input("Approximately, how much will you need for accomodation/hotel?"))
 foodExpense=int(input("Last, how much do you need for food?"))
